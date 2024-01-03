@@ -1,12 +1,12 @@
-ModuleID,Instructor,TA,Enrolment,Rating
-ML,Ahmed,Yasmine,35,8
-ML,Leila,Karim,38,7
-ML,Mohamed,Omar,30,6
-PA,Fatima,Abdelkader,40,7
-PA,Amine,Yasmine,36,8
-PA,Leila,Fatima,34,6
-OC,Karim,Walid,42,7
-OC,Sarah,Yasmina,43,8
-OC,Nassim,Fatima,32,7
-ML,Abdelkader,Leila,33,9
-ML,Fatima,Mohamed,31,8
+ModuleID,Instructor,TA,Enrolment,Rating,Validate,Weight
+ML,Ahmed,Yasmine,35,8,yes,20 to 50 kg
+ML,Leila,Karim,38,7,yes,10 to 50 kg
+ML,Mohamed,Omar,30,6,yes,30 to 40kg
+PA,Fatima,Abdelkader,40,7,no,15 to 30 kg
+PA,Amine,Yasmine,36,8,no,20 to 50 kg
+PA,Leila,Fatima,34,6,yes,60 to 50 kg
+OC,Karim,Walid,42,7,no,80 to 90 kg
+OC,Sarah,Yasmina,43,8,no,20 to 50 kg
+OC,Nassim,Fatima,32,7,no,30 to 50 kg
+ML,Abdelkader,Leila,33,9,yes,50 to 60 kg
+NaN,Fatima,Mohamed,31,8,yes,70 to 90 kg
